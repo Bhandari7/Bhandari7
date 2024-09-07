@@ -1,5 +1,5 @@
 ### Namaste and hello, My name is Vijay Bhandari 👋
-I am passinate about programming and love to simplify complex problems.
+I am passionate about programming and love to simplify complex problems.
 <!--
 **Bhandari7/Bhandari7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
